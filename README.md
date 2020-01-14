@@ -1,2 +1,13 @@
 # Searchable-Student-Directory
  Unit 2, Treehouse Full Stack JavaScript TechDegree Program
+
+Attention Treehouse: Extra Credit features included:
+    - paginated search results using unobtrusive JavaScript
+    - includes keyup listener for instant search results
+    - "no results returned" notification added to the DOM when applicable
+
+This project presents a searchable, paginated view of a student directory,
+created using unobtrusive JavaScript so that the page will still load in
+limited browsers or if JavaScript is disabled for any reason.
+
+To see it in action, download the files and view the index.html file in your favorite browser.

@@ -1,5 +1,5 @@
 # Searchable-Student-Directory
-##Treehouse Full Stack JavaScript Techegree Unit 2
+## Treehouse Full Stack JavaScript Techegree Unit 2
 
 This project was graded **Exceeds Expectations**.
 
